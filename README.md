@@ -8,7 +8,7 @@ However, if you decide to use them in your own projects or share them publicly, 
 
 ---
 
-## 📦 Contents
+## 📦 Contents 
 
 - Ready-to-import `.json` workflow files for n8n  
 - Example automations for:
